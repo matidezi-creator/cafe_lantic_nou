@@ -25,7 +25,7 @@ Una experiencia visual cálida y minimalista que fusiona lo tradicional con lo c
 
 ## 🌐 Demo
 
-👉 [Ver sitio en línea](https://cafe-lantic-nou.vercel.app) _(se agregará al publicar en Vercel)_
+👉 [Ver sitio en línea]([https://cafe-lantic-nou.vercel.app](https://cafe-lantic-nou.vercel.app/)) _(se agregará al publicar en Vercel)_
 
 ---
 
